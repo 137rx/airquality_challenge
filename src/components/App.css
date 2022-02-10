@@ -1,0 +1,17 @@
+
+.select-language{
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  text-align: center;
+  padding: 0.5rem 0;
+  margin: 0.5rem 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+  margin: 2rem;
+}
+

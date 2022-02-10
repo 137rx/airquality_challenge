@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 2.5rem;
+    font-weight: bold;
+    
+}
+
+.cigarette-img {
+    max-height: 4rem;
+    background-color: black;
+}
+
+.comparison {
+    color: darkslategrey;
+    font-weight: bold;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-bottom: 0.1rem solid darkgray;
+}
